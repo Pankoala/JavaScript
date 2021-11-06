@@ -1,3 +1,4 @@
+function operaciones() {
 let a = 5;
 let b = 10;
 let c = 15;
@@ -9,7 +10,6 @@ let operacion4 = (a + b + c / c) * a;
 let operacion5 = ((3 * a) / c) + a + b + c;
 let operacion6 = a - (b + c) * a / 1;
 
-function operaciones() {
 console.log(operacion1)
 console.log(operacion2)
 console.log(operacion3)
